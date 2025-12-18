@@ -2,8 +2,7 @@
   import { onMount } from 'svelte';
   import Hero from '$lib/components/Hero.svelte';
   import Features from '$lib/components/Features.svelte';
-  import Screenshots from '$lib/components/Screenshots.svelte';
-  import Installation from '$lib/components/Installation.svelte';
+    import Installation from '$lib/components/Installation.svelte';
   import Usage from '$lib/components/Usage.svelte';
   import Footer from '$lib/components/Footer.svelte';
 
@@ -45,7 +44,6 @@
 <main>
   <Hero {version} {downloadUrl} />
   <Features />
-  <Screenshots />
   <Installation {downloadUrl} />
   <Usage />
   <Footer {version} />
