@@ -2,17 +2,17 @@
   const defaultActions = [
     {
       name: 'Explain Selected Text',
-      hotkey: '⌥⇧1',
+      hotkey: '⌥⇧E',
       description: 'Select any text and press the hotkey to get an AI explanation.'
     },
     {
       name: 'Explain Screen Region',
-      hotkey: '⌥⇧2',
+      hotkey: '⌥⇧S',
       description: 'Capture a screen region and extract text for analysis.'
     },
     {
       name: 'Translate to English',
-      hotkey: '⌥⇧3',
+      hotkey: '⌥⇧T',
       description: 'Translate selected text to English instantly.'
     }
   ];
