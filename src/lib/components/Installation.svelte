@@ -81,7 +81,7 @@
           About API Keys
         </h4>
         <p class="text-gray-400 text-sm">
-          Psaiduck requires an OpenAI API key to function. Your API key is stored securely in your macOS Keychain and is only used to communicate with the OpenAI API. Get your API key at
+          Psaiduck requires an OpenAI API key to function. Your API key is stored securely in your macOS Keychain and is never shared with anyone — it's only used to communicate directly with OpenAI's API. Get your API key at
           <a href="https://platform.openai.com/api-keys" target="_blank" rel="noopener" class="text-psaiduck-purple hover:underline">platform.openai.com</a>.
         </p>
       </div>
