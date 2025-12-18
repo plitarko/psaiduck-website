@@ -19,7 +19,7 @@
 
     <!-- Copyright -->
     <div class="mt-8 pt-8 border-t border-gray-800 text-center text-sm text-gray-500">
-      <p>&copy; {currentYear} Psaiduck. Built with AI.</p>
+      <p>&copy; {currentYear} Psaiduck</p>
     </div>
   </div>
 </footer>
