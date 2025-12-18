@@ -52,12 +52,12 @@
       </svg>
       Download for macOS
     </a>
-  </div>
 
-  <!-- Scroll indicator -->
-  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-    <svg class="w-6 h-6 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-    </svg>
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-8 left-0 right-0 flex justify-center animate-bounce">
+      <svg class="w-6 h-6 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+      </svg>
+    </div>
   </div>
 </section>
