@@ -17,7 +17,7 @@
       <img
         src="/app-icon.png"
         alt="Psaiduck App Icon"
-        class="w-40 h-40 md:w-52 md:h-52 glow rounded-full"
+        class="w-40 h-40 md:w-52 md:h-52 glow rounded-[22%]"
       />
     </div>
 
