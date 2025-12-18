@@ -13,7 +13,7 @@
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" />
       </svg>`,
       title: 'Screen Capture & OCR',
-      description: 'Capture any region of your screen and extract text using OCR for instant analysis.'
+      description: 'Capture any region of your screen and extract text using local OCR. Screenshots are processed on your Mac — only the extracted text is sent to the AI.'
     },
     {
       icon: `<svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
